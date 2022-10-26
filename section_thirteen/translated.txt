@@ -1,0 +1,3 @@
+english: Would you like some water?, japanese: 欲しいんだろ？
+english: Would you like some water?, german: Benötigen Sie Hilfe?
+english: Would you like some water?, spanish: ¿Quieres un poco de agua?
