@@ -1,6 +1,6 @@
 import re
 
-pattern = re.compile(r"([a-zA-Z0-9$%#@]{8,}\d+)")
+pattern = re.compile(r"([a-zA-Z0-9$%#@]{7,}\d+)")
 password = r'$up3r$3cr3T4'
 match = pattern.fullmatch(password)
 
