@@ -1,4 +1,3 @@
-from numpy import unicode_
 from translate import Translator
 
 
