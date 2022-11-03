@@ -1,0 +1,2 @@
+# Udemy Code
+Although the instructor provided Flask implementation, I opted to create this project using FastApi and Svelte. This means the project is built and will deploy differently, but implements the concepts that were taught
